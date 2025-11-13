@@ -1,0 +1,9 @@
+app\App.class
+app\ShoppingCart.class
+app\InventoryManager.class
+app\StoreFront.class
+app\Product.class
+app\SalableProductComparators.class
+app\GameUser.class
+app\SalableProduct.class
+app\InventoryItem.class
